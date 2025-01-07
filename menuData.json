@@ -1,0 +1,148 @@
+[
+    {
+        "section": "Starters",
+        "items": [
+            { "name": "Tomato Basil Soup", "description": "A classic soup with fresh basil.", "price": "$6.99", "image": "images/Tomato Basil Soup.jpg" },
+            { "name": "Stuffed Mushrooms", "description": "Mushrooms stuffed with cheese.", "price": "$8.49", "image": "images/Stuffed Mushrooms.jpg" },
+            { "name": "Bruschetta", "description": "Toasted bread with tomato and basil.", "price": "$7.99", "image": "images/Bruschetta.jpg" },
+            { "name": "Spring Rolls", "description": "Crispy rolls filled with veggies.", "price": "$6.49", "image": "images/Spring Rolls.jpg" },
+            { "name": "Garlic Bread", "description": "Toasted bread with garlic butter.", "price": "$4.99", "image": "images/Garlic Bread.jpg" },
+            { "name": "Caesar Salad", "description": "Fresh romaine with Caesar dressing.", "price": "$5.99", "image": "images/Caesar Salad.jpg" },
+            { "name": "Caprese Salad", "description": "Fresh mozzarella and tomatoes.", "price": "$7.49", "image": "images/Caprese Salad.jpg" },
+            { "name": "Chicken Wings", "description": "Spicy and tangy chicken wings.", "price": "$9.49", "image": "images/Chicken Wings.jpg" },
+            { "name": "Shrimp Cocktail", "description": "Chilled shrimp with cocktail sauce.", "price": "$10.99", "image": "images/Shrimp Cocktail.jpg" },
+            { "name": "Onion Rings", "description": "Crispy fried onion rings.", "price": "$5.99", "image": "images/Onion Rings.jpg" },
+            { "name": "Stuffed Peppers", "description": "Peppers stuffed with cheese and rice.", "price": "$8.99", "image": "images/Stuffed Peppers.jpg" },
+            { "name": "Mini Quiches", "description": "Assorted mini quiches.", "price": "$7.99", "image": "images/Mini Quiches.jpg" }
+        ]
+    },
+    {
+        "section": "Main Course",
+        "items": [
+            { "name": "Grilled Salmon", "description": "Freshly grilled salmon with veggies.", "price": "$18.99", "image": "images/Grilled Salmon.jpg" },
+            { "name": "Spaghetti Carbonara", "description": "Classic Italian pasta.", "price": "$14.99", "image": "images/Spaghetti Carbonara.jpg" },
+            { "name": "Butter Chicken", "description": "Creamy chicken curry with rice.", "price": "$16.49", "image": "images/Butter Chicken.jpg" },
+            { "name": "Vegetarian Lasagna", "description": "Layers of pasta and veggies.", "price": "$13.99", "image": "images/Vegetarian Lasagna.jpg" },
+            { "name": "Ribeye Steak", "description": "Juicy steak cooked to perfection.", "price": "$24.99", "image": "images/Ribeye Steak.jpg" },
+            { "name": "Vegan Bowl", "description": "A mix of quinoa, avocado, and veggies.", "price": "$12.99", "image": "images/Vegan Bowl.jpg" },
+            { "name": "Chicken Alfredo", "description": "Creamy Alfredo sauce with chicken.", "price": "$15.99", "image": "images/Chicken Alfredo.jpg" },
+            { "name": "Beef Stroganoff", "description": "Tender beef with creamy mushroom sauce.", "price": "$17.99", "image": "images/Beef Stroganoff.jpg" },
+            { "name": "Fish and Chips", "description": "Crispy fish with golden fries.", "price": "$14.99", "image": "images/Fish and Chips.jpg" },
+            { "name": "Tacos", "description": "Three tacos with your choice of filling.", "price": "$11.99", "image": "images/Tacos.jpg" },
+            { "name": "Pork Chops", "description": "Grilled pork chops with apple sauce.", "price": "$19.99", "image": "images/Pork Chops.jpg" },
+            { "name": "Margarita Pizza", "description": "Classic pizza with fresh basil.", "price": "$12.99", "image": "images/Margarita Pizza.jpg" }
+        ]
+    },
+    {
+        "section": "Specials",
+        "items": [
+            { "name": "Truffle Risotto", "description": "Rich and creamy truffle-flavored risotto.", "price": "$19.99", "image": "images/Truffle Risotto.jpg" },
+            { "name": "Lobster Tail", "description": "Succulent lobster tail with garlic butter.", "price": "$29.99", "image": "images/Lobster Tail.jpg" },
+            { "name": "Beef Wellington", "description": "Tender beef wrapped in pastry.", "price": "$34.99", "image": "images/Beef Wellington.jpg" },
+            { "name": "Duck Confit", "description": "Slow-cooked duck leg.", "price": "$27.99", "image": "images/Duck Confit.jpg" },
+            { "name": "Paella", "description": "Classic Spanish seafood rice dish.", "price": "$23.99", "image": "images/Paella.jpg" },
+            { "name": "Ratatouille", "description": "Hearty French vegetable dish.", "price": "$18.99", "image": "images/Ratatouille.jpg" },
+            { "name": "Surf and Turf", "description": "Steak and lobster combination.", "price": "$39.99", "image": "images/Surf and Turf.jpg" },
+            { "name": "BBQ Ribs", "description": "Tender ribs with barbecue sauce.", "price": "$22.99", "image": "images/BBQ Ribs.jpg" },
+            { "name": "Seafood Platter", "description": "Assorted fresh seafood.", "price": "$49.99", "image": "images/Seafood Platter.jpg" },
+            { "name": "Lamb Shank", "description": "Braised lamb shank with herbs.", "price": "$25.99", "image": "images/Lamb Shank.jpg" },
+            { "name": "Grilled Honey-Glazed Salmon", "description": "Grilled salmon with a sweet honey glaze.", "price": "$21.99", "image": "images/Grilled Honey-Glazed Salmon.jpg" },
+            { "name": "Lobster Ravioli", "description": "Pasta stuffed with lobster and ricotta.", "price": "$24.99", "image": "images/Lobster Ravioli.jpg" }
+        ]
+    },
+    {
+        "section": "Desserts",
+        "items": [
+            { "name": "Chocolate Lava Cake", "description": "Warm cake with molten chocolate center.", "price": "$7.99", "image": "images/Chocolate Lava Cake.jpg" },
+            { "name": "Tiramisu", "description": "Classic Italian dessert with mascarpone.", "price": "$8.49", "image": "images/Tiramisu.jpg" },
+            { "name": "Cheesecake", "description": "Rich and creamy cheesecake.", "price": "$6.99", "image": "images/Cheesecake.jpg" },
+            { "name": "Molten Chocolate Soufflé", "description": "Decadent dessert with gooey center.", "price": "$8.99", "image": "images/Molten Chocolate Soufflé.jpg" },
+            { "name": "Fruit Tart", "description": "Crisp tart filled with fresh fruits.", "price": "$6.99", "image": "images/Fruit Tart.jpg" },
+            { "name": "Brownie", "description": "Fudgy chocolate brownie.", "price": "$4.99", "image": "images/Brownie.jpg" },
+            { "name": "Macarons", "description": "Assorted French macarons.", "price": "$8.99", "image": "images/Macarons.jpg" },
+            { "name": "Crème Brûlée", "description": "Creamy custard with caramelized top.", "price": "$9.49", "image": "images/Crème Brûlée.jpg" },
+            { "name": "Apple Pie", "description": "Warm pie with a flaky crust.", "price": "$7.99", "image": "images/Apple Pie.jpg" },
+            { "name": "Banoffee Pie", "description": "Banana and toffee dessert.", "price": "$6.99", "image": "images/Banoffee Pie.jpg" },
+            { "name": "Panna Cotta", "description": "Creamy Italian dessert.", "price": "$8.49", "image": "images/Panna Cotta.jpg" },
+            { "name": "Lemon Meringue Pie", "description": "Tangy pie with fluffy topping.", "price": "$7.49", "image": "images/Lemon Meringue Pie.jpg" }
+        ]
+    },
+    {
+        "section": "Special Drinks",
+        "items": [
+            { 
+                "name": "Negroni", 
+                "description": "Classic blend of gin, Campari, and sweet vermouth.", 
+                "price": "$19.99", 
+                "image": "images/Negroni.jpg" 
+            },
+            { 
+                "name": "Mojito", 
+                "description": "Refreshing mix of white rum, mint, lime, and soda.", 
+                "price": "$15.99", 
+                "image": "images/Mojito.jpg" 
+            },
+            { 
+                "name": "Virgin Passionfruit Cooler", 
+                "description": "Passionfruit, lime, and mint with soda water.", 
+                "price": "$12.99", 
+                "image": "images/Virgin Passionfruit Cooler.jpg" 
+            },
+            { 
+                "name": "Lychee Martini", 
+                "description": "Vodka, lychee liqueur, and fresh lychee garnish.", 
+                "price": "$19.99", 
+                "image": "images/Lychee Martini.jpg" 
+            },
+            { 
+                "name": "French 75", 
+                "description": "Gin, Champagne, lemon juice, and sugar; light and refreshing.", 
+                "price": "$19.99", 
+                "image": "images/French 75.jpg" 
+            },
+            { 
+                "name": "Old Fashioned", 
+                "description": "Bourbon, sugar, Angostura bitters, and orange zest.", 
+                "price": "$22.99", 
+                "image": "images/Old Fashioned.jpg" 
+            },
+            { 
+                "name": "Strawberry Basil Spritzer", 
+                "description": "Fresh strawberries, basil, and sparkling water.", 
+                "price": "$12.99", 
+                "image": "images/Strawberry Basil Spritzer.jpg" 
+            },
+            { 
+                "name": "Pineapple Jalapeño Margarita", 
+                "description": "Tequila, pineapple juice, lime, and jalapeño kick.", 
+                "price": "$18.99", 
+                "image": "images/Pineapple Jalapeño Margarita.jpg" 
+            },
+            { 
+                "name": "Virgin Cucumber Mule", 
+                "description": "Fresh cucumber, lime, ginger beer, and mint.", 
+                "price": "$9.99", 
+                "image": "images/Virgin Cucumber Mule.jpg" 
+            },
+            { 
+                "name": "Sparkling Raspberry Lemonade", 
+                "description": "Fresh raspberries, lemon, and sparkling water.", 
+                "price": "$9.99", 
+                "image": "images/Sparkling Raspberry Lemonade.jpg" 
+            },
+            { 
+                "name": "Elderflower Sparkler", 
+                "description": "Elderflower syrup, lime, and sparkling water.", 
+                "price": "$12.99", 
+                "image": "images/Elderflower Sparkler.jpg" 
+            },
+            { 
+                "name": "Espresso Martini", 
+                "description": "Rich espresso with a hint of vanilla vodka.", 
+                "price": "$18.99", 
+                "image": "images/Espresso Martini.jpg" 
+            }
+        ]    
+    }
+    
+]
